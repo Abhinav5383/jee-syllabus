@@ -315,12 +315,6 @@
 - [] Identification of Diode. LED, Transistor. IC. Resistor. A capacitor from a mixed collection of such items.
 
 
-## Important Topics
-
-- [] Laws of Motion: Force and Inertia, Newton’s Laws of Motion
-- [] Gravitation: Universal law of gravitation, acceleration due to gravity
-- [] Properties of Solids and Liquids: Elastic behavior, Hooke’s Law, Young’s Modulus
-
 ## Chapter weightage
 
 | Chapters                             | Total Questions | Weightage |
