@@ -2,15 +2,15 @@
 # Physics Syllabus
 
 1. **Physics and Measurement**:
-    - [] Physics
-    - [] Technology and society
-    - [] S. I. Units
-    - [] Fundamental and derived units
+    - [x] Physics
+    - [x] Technology and society
+    - [x] S. I. Units
+    - [x] Fundamental and derived units
     - [] Least count
     - [] Accuracy and precision of measuring instruments
     - [] Measurement errors
-    - [] Dimensions of Physics quantities
-    - [] Dimensional analysis and its applications.
+    - [x] Dimensions of Physics quantities
+    - [x] Dimensional analysis and its applications.
 
 2. **Kinematics**:
     - [] The frame of reference
