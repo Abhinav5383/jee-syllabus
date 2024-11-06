@@ -13,21 +13,21 @@
     - [x] Dimensional analysis and its applications.
 
 2. **Kinematics**:
-    - [] The frame of reference
-    - [] Motion in a straight line
-    - [] Position- time graph
-    - [] Speed and velocity; Uniform and non-uniform motion
-    - [] Average speed and instantaneous velocity
-    - [] Uniformly accelerated motion
-    - [] Velocity-time
-    - [] Position-time graph
-    - [] Relations for uniformly accelerated motion
-    - [] Scalars and Vectors
-    - [] Vector. Addition and subtraction
-    - [] Zero vector
-    - [] Scalar and vector products
-    - [] Unit Vector
-    - [] Resolution of a Vector. Relative Velocity
+    - [x] The frame of reference
+    - [x] Motion in a straight line
+    - [x] Position- time graph
+    - [x] Speed and velocity; Uniform and non-uniform motion
+    - [x] Average speed and instantaneous velocity
+    - [x] Uniformly accelerated motion
+    - [x] Velocity-time
+    - [x] Position-time graph
+    - [x] Relations for uniformly accelerated motion
+    - [x] Scalars and Vectors
+    - [x] Vector. Addition and subtraction
+    - [x] Zero vector
+    - [x] Scalar and vector products
+    - [x] Unit Vector
+    - [x] Resolution of a Vector. Relative Velocity
     - [] Motion in a plane
     - [] Projectile Motion
     - [] Uniform Circular Motion.
