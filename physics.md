@@ -28,8 +28,8 @@
     - [x] Scalar and vector products
     - [x] Unit Vector
     - [x] Resolution of a Vector. Relative Velocity
-    - [] Motion in a plane
-    - [] Projectile Motion
+    - [x] Motion in a plane
+    - [x] Projectile Motion
     - [] Uniform Circular Motion.
 
 3. **Laws of Motion**:
